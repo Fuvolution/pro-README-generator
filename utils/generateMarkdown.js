@@ -50,6 +50,7 @@ ${data.contributions}
 ${data.testing}
 ## Questions
 Please send your questions to ${data.username} [Here](mailto:${data.email})
+Email: ${data.email}
 `;
 }
 
