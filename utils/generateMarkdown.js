@@ -37,8 +37,8 @@ ${data.description}
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributions)
-* [Tests](#testing)
+* [Contributing](#contributing)
+* [Tests](#tests)
 * [Questions](#questions)
 ## Installation
 ${data.installation}
