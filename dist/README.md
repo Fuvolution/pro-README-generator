@@ -1,7 +1,7 @@
-# Professional README generator
-![Github license](https://img.shields.io/badge/license-ISC-blue.svg)
+# Password Generator
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-This project takes in user answers to the provided questions to generate a README file!
+This application generates a password based on the user's criteria for the password they want to generate.
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
@@ -10,12 +10,12 @@ This project takes in user answers to the provided questions to generate a READM
 * [Tests](#testing)
 * [Questions](#questions)
 ## Installation
-You need to install Inquirer!
+There are no dependencies needed to install. 
 ## Usage
-I used Inquirer!
+I used HTML, CSS, and JavaScript for my application!
 ## Contributing
-There are no guidelines!
+All contributors must contact me on any pull requests they want to make!
 ## Tests
-You need to open the Integrated Terminal, do npm install, and then run node index.js to begin testing my project!
+Go to the deployed application URL and fill in the provided field to test this application!
 ## Questions
-Please send your questions to Fuvolution [Here](mailto:ams.dinhphuc@gmail.com)
+Please send your questions to Fuvolution [Here](mailto:sampleemailaddress@gmail.com)
