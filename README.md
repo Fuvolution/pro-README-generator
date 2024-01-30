@@ -8,3 +8,4 @@ entered! This application allows users to quickly generate professional README f
 questions! 
 
 ## Application Image: 
+![Professional README Generator](https://github.com/Fuvolution/pro-README-generator/blob/main/dist/professional-sample-README.png?raw=true)
